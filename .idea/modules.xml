@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/orange-batch.iml" filepath="$PROJECT_DIR$/orange-batch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orange-batch-api/orange-batch-api.iml" filepath="$PROJECT_DIR$/orange-batch-api/orange-batch-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orange-batch-core/orange-batch-core.iml" filepath="$PROJECT_DIR$/orange-batch-core/orange-batch-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orange-batch-dao/orange-batch-dao.iml" filepath="$PROJECT_DIR$/orange-batch-dao/orange-batch-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orange-batch-manager/orange-batch-manager.iml" filepath="$PROJECT_DIR$/orange-batch-manager/orange-batch-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orange-batch-support/orange-batch-support.iml" filepath="$PROJECT_DIR$/orange-batch-support/orange-batch-support.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orange-batch-web/orange-batch-web.iml" filepath="$PROJECT_DIR$/orange-batch-web/orange-batch-web.iml" />
+    </modules>
+  </component>
+</project>
