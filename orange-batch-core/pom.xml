@@ -11,5 +11,11 @@
 
     <artifactId>orange-batch-core</artifactId>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>com.bestpay.cf.batch</groupId>
+            <artifactId>orange-batch-dao</artifactId>
+            <version>1.0.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>
